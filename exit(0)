@@ -1,0 +1,6 @@
+ break;
+        case 'exit':
+            exit(0);
+        default:
+            echo "Invalid command. Try again.\n";
+    }
